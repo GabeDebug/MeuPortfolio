@@ -1,74 +1,116 @@
-# Welcome to your Lovable project
+# 💼 Portfolio — Gabriel Almeida
 
-## Project info
+Portfólio pessoal desenvolvido para apresentar meus **projetos**, **skills** e **informações profissionais** como **Junior Full-Stack Web & Blockchain Developer**, com foco atual em **C# e backend**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Vite](https://img.shields.io/badge/Vite-fast-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Tecnologias Utilizadas
 
-**Use Lovable**
+- **Frontend**
+  - React
+  - TypeScript
+  - Vite
+  - Tailwind CSS
+  - Lucide Icons
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- **Backend / Linguagens**
+  - C#
+  - Node.js
+  - Python
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Banco de Dados**
+  - PostgreSQL
+  - MongoDB
 
-**Use your preferred IDE**
+- **Ferramentas**
+  - Git & GitHub
+  - Devicon (ícones de tecnologias)
+  - React Query
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ✨ Funcionalidades
 
-Follow these steps:
+- Layout moderno em **dark mode**
+- Sidebar com:
+  - Avatar
+  - Informações pessoais
+  - Redes sociais
+- Seções organizadas:
+  - Projects
+  - Skills (com ícones das tecnologias)
+  - Certificates
+  - Education
+- Arquitetura baseada em **componentes reutilizáveis**
+- Design responsivo (desktop e mobile)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🧠 Estrutura do Projeto
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+src/
+├─ components/
+│  ├─ ProfileSidebar.tsx
+│  ├─ MainContent.tsx
+│  ├─ SkillBadge.tsx
+│  ├─ ProjectCard.tsx
+│  └─ ...
+├─ pages/
+│  └─ Index.tsx
+├─ assets/
+│  └─ eu.jpeg
+└─ main.tsx
+# clone o repositório
+git clone https://github.com/GabeDebug/seu-repo.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# entre na pasta
+cd seu-repo
+
+# instale as dependências
+npm install
+
+# rode o projeto
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+📌 Sobre mim
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+👨‍💻 Gabriel Almeida
+Junior Full-Stack Web & Blockchain Developer
+📍 Campina Grande - Brasil
+⏳ 1 ano de experiência
+🧩 35+ bibliotecas e frameworks
+🎯 Foco atual em C# e desenvolvimento backend
 
-**Use GitHub Codespaces**
+🌐 Redes Sociais
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+GitHub: https://github.com/GabeDebug
 
-## What technologies are used for this project?
+LinkedIn: https://linkedin.com/in/seu-linkedin
 
-This project is built with:
+Email: seuemail@gmail.com
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📄 Licença
 
-## How can I deploy this project?
+Este projeto está sob a licença MIT.
+Sinta-se à vontade para usar como referência.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+⭐ Se você gostou do projeto, deixe uma estrela no repositório!
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## 🔥 Quer deixar ainda mais forte?
+Posso:
+- adaptar o README para **inglês**
+- deixar versão **ATS-friendly**
+- adicionar **prints do portfólio**
+- criar um **badge personalizado com seu nome**
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-# MeuPortfolio
+É só dizer 😉
