@@ -92,9 +92,9 @@ Junior Full-Stack Web & Blockchain Developer
 
 GitHub: https://github.com/GabeDebug
 
-LinkedIn: https://linkedin.com/in/seu-linkedin
+LinkedIn: https://linkedin.com/in/gabrielmessiasc0d3
 
-Email: seuemail@gmail.com
+Email: gabrielmessiasc0d3@gmail.com
 
 📄 Licença
 
