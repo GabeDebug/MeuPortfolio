@@ -102,15 +102,3 @@ Este projeto está sob a licença MIT.
 Sinta-se à vontade para usar como referência.
 
 ⭐ Se você gostou do projeto, deixe uma estrela no repositório!
-
-
----
-
-## 🔥 Quer deixar ainda mais forte?
-Posso:
-- adaptar o README para **inglês**
-- deixar versão **ATS-friendly**
-- adicionar **prints do portfólio**
-- criar um **badge personalizado com seu nome**
-
-É só dizer 😉
