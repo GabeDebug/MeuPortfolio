@@ -59,7 +59,7 @@ const ProfileSidebar = () => {
       <div className="bg-card rounded-lg border border-border p-6">
         <h2 className="text-lg font-bold text-foreground mb-3">About</h2>
         <p className="text-sm text-muted-foreground leading-relaxed font-mono">
-          Senior Full-Stack & Blockchain Developer 6 ano de experiência 35+ libs e frameworks e Foco atual em C#
+          Junior Full-Stack & Blockchain Developer 6 ano de experiência 35+ libs e frameworks e Foco atual em C#
         </p>
       </div>
     </aside>

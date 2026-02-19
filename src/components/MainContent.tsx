@@ -82,11 +82,11 @@ const MainContent = () => {
           <div className="flex items-center gap-3">
             <GraduationCap className="h-4 w-4 text-primary" />
             <div>
-              <p className="text-sm font-medium text-foreground">Paris-Saclay University</p>
-              <p className="text-xs text-muted-foreground">Engenharia de Software</p>
+              <p className="text-sm font-medium text-foreground">Universidade Estácio de Sá,</p>
+              <p className="text-xs text-muted-foreground">Análise e Desenvolvimento de Sistemas</p>
             </div>
           </div>
-          <span className="text-xs text-muted-foreground font-mono">2026 - 2030 </span>
+          <span className="text-xs text-muted-foreground font-mono">2026 - 2028</span>
         </div>
       </section>
 
